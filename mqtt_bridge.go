@@ -2,7 +2,7 @@
 
 Example run command:
 
-./mqtt_bridge -cb_systemKey="82b8b78c0bcc90a7d5bcc2fcf5e901" -cb_systemSecret="82B8B78C0BB4B8CF8AB695AAD7C101" -cb_platformURL="https://dev-sbd.clearblade.com" -cb_messagingURL="dev-sbd.clearblade.com:1883" -cb_email="rreinold@clearblade.com" -cb_password="clearblade" -vt_systemKey="bcb3f4870b92f884a4d9e6ffcb4f" -vt_systemSecret="BCB3F4870BACC3D095D196988836" -vt_platformURL="https://staging.clearblade.com" -vt_messagingURL="staging.clearblade.com:1883" -vt_email="rreinold@clearblade.com" -vt_password="clearblade"
+mqtt_bridge -cb_systemKey="82b8b78c0bcc90a7d5bcc2fcf5e901" -cb_systemSecret="82B8B78C0BB4B8CF8AB695AAD7C101" -cb_platformURL="https://dev-sbd.clearblade.com" -cb_messagingURL="dev-sbd.clearblade.com:1883" -cb_email="rreinold@clearblade.com" -cb_password="clearblade" -vt_systemKey="bcb3f4870b92f884a4d9e6ffcb4f" -vt_systemSecret="BCB3F4870BACC3D095D196988836" -vt_platformURL="https://staging.clearblade.com" -vt_messagingURL="staging.clearblade.com:1883" -vt_email="rreinold@clearblade.com" -vt_password="clearblade"
 
 */
 
